@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
+        institution: 'State Board of Maharashtra',
         course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        startYear: '2015',
+        endYear: '2017'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
+        institution: 'MIT ACSC,Pune',
+        course: 'Bachelor of Computer Science',
+        startYear: '2017',
+        endYear: '2020'
     },
     {
         id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
+        institution: 'Pune University, Pune',
+        course: 'Master of Computer Science',
+        startYear: '2021',
+        endYear: '2023'
     },
 ]

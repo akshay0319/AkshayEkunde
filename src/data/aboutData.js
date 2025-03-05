@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description1: "My name's Akshay. I'm a web designer and developer based in Maharashtra,In.",
+    description2: "With expertise in React, Node.js, Laravel, and WordPress, I craft scalable, high-performance web applications with precision. My skillset spans robust backend architecture, seamless front-end development, and database optimization for efficiency and security. I specialize in building enterprise-grade e-commerce platforms and SEO-optimized digital ecosystems that are both technologically advanced and user-centric. Passionate about innovation, I continuously explore cutting-edge technologies, automation, and AI-driven enhancements. Every project is a pursuit of technical excellence, seamless UX, and transformative impact in the digital world. 🚀",
     image: 2
 }
